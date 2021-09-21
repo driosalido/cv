@@ -23,9 +23,11 @@ Senior-level infrastructure engineer with almost 20 years of experience in desig
 `November 2020 - Present`
 **Grupo Masmovil, Senior DevOps Specialist**
 
-As part of the Systems tribe and inside the Chapter Runtime we take care and deploy the systems that are cross to the company in the compant cloud environment.
+As part of the Systems tribe and inside the Chapter Runtime we deploy and take care the systems that are cross to the company.
 
-Main technologies used: Kubernetes, Terraform, Helm, Google Cloud Plattform, Kafka, ElasticSearch, Redis, Prometheus, Grafana, Jenkins.
+We define and manage the cloud infrastructure as code (IaC). We design, build and deploy scalable and secured services as the company event streaming platform and the company workflow orchestration engine.
+
+Main technologies used: Kubernetes, Terraform, Helm, Google Cloud Plattform, Kafka, Strimzi, Cadence, ElasticSearch, Redis, Prometheus, Grafana, Jenkins.
 
 `December 2019 - November 2020`
 **Qindel, Architect/Team Leader, Madrid**
