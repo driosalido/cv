@@ -136,6 +136,7 @@ My main goal as the chairman of the council was to manage the whole project from
 
 `1996-2001`
 **Universidad Pontificia de Salamanca, Madrid**
+
 Completed coursework towards a Master's Degree in Computer Science (1996-2001)
 
 ## Courses
@@ -149,13 +150,16 @@ Completed coursework towards a Master's Degree in Computer Science (1996-2001)
 ## Languages
 
 **Spanish** (Native)
+
 **English** (Professional Working Proficiency)
 
 ## Hobbies
 
-- Board Games: Enjoy strategy and problem-solving challenges through a variety of board games.
-- 3D Printing: Skilled in designing and creating custom objects using 3D printing technology.
-- Home Automation: Passionate about integrating smart devices for efficient and automated living spaces.
+Board Games: Enjoy strategy and problem-solving challenges through a variety of board games.
+
+3D Printing: Skilled in designing and creating custom objects using 3D printing technology.
+
+Home Automation: Passionate about integrating smart devices for efficient and automated living spaces.
 
 <!-- ### Footer
 
