@@ -140,11 +140,11 @@ Completed coursework towards a Master's Degree in Computer Science (1996-2001)
 
 ## Courses
 
-- `2016` Core Elasticsearch: Operations & Development, Elasticsearch
-- `2015` Cloudera Administrator Training for Apache Hadoop, Cloudera University
-- `2014` MongoDB Essentials, MongoDB University
-- `2011` ITIL Foundations V3, APMG-International
-- `2010` Linux Professional Institute Certification – 1 (LPIC-1), Linux Professional Institute
+* `2016` Core Elasticsearch: Operations & Development, Elasticsearch
+* `2015` Cloudera Administrator Training for Apache Hadoop, Cloudera University
+*  `2014` MongoDB Essentials, MongoDB University
+* `2011` ITIL Foundations V3, APMG-International
+* `2010` Linux Professional Institute Certification – 1 (LPIC-1), Linux Professional Institute
 
 ## Languages
 
