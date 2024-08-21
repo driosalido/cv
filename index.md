@@ -23,7 +23,7 @@ Experienced Senior Platform Engineer, Devops/Infrastructure Specialist with over
 `December 2023 - Present`
 **IntentHQ, Principal Platform Engineer, Remote**
 
-"Led the transition from a traditional DevOps organization to a more streamlined Platform Engineering structure, aimed at accelerating the company’s growth by simplifying developer onboarding and delivering infrastructure as a product. This approach reduced cognitive load for users, facilitating easier access and promoting standardization. Spearheaded the redesign of the platform architecture to boost operational efficiency and scalability, fostering collaboration to drive innovation and ensure platform reliability."
+Led the transition from a traditional DevOps organization to a more streamlined Platform Engineering structure, aimed at accelerating the company’s growth by simplifying developer onboarding and delivering infrastructure as a product. This approach reduced cognitive load for users, facilitating easier access and promoting standardization. Spearheaded the redesign of the platform architecture to boost operational efficiency and scalability, fostering collaboration to drive innovation and ensure platform reliability.
 
 Main technologies used: Kubernetes, Crossplane,Port, Terraform, Terragrunt, ArgoCD, Prometheus, Grafana, Loki,Github Actions, AWS, Helm.
 
@@ -140,11 +140,11 @@ Completed coursework towards a Master's Degree in Computer Science (1996-2001)
 
 ## Courses
 
-`2016` Core Elasticsearch: Operations & Development, Elasticsearch
-`2015` Cloudera Administrator Training for Apache Hadoop, Cloudera University
-`2014` MongoDB Essentials, MongoDB University
-`2011` ITIL Foundations V3, APMG-International
-`2010` Linux Professional Institute Certification – 1 (LPIC-1), Linux Professional Institute
+- `2016` Core Elasticsearch: Operations & Development, Elasticsearch
+- `2015` Cloudera Administrator Training for Apache Hadoop, Cloudera University
+- `2014` MongoDB Essentials, MongoDB University
+- `2011` ITIL Foundations V3, APMG-International
+- `2010` Linux Professional Institute Certification – 1 (LPIC-1), Linux Professional Institute
 
 ## Languages
 
